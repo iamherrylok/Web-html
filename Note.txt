@@ -1,0 +1,16 @@
+概念：什么是HTML
+HTML： Hyper Text Markup Language 超文本标记语言
+
+概念：什么是HTML元素
+元素包括：开始标签 结束标签  例如：<p> </p>
+
+浏览器的作用是什么？
+web浏览器是用于读取HTML文件。
+
+<!DOCTYPE html> -- 用于声明此文档类型： html文档  html5的声明方式
+<html>          -- html页面的根元素
+<head>          -- 包含文档的元数据 
+<title>         -- 描述了文档的标题
+<body>          -- 包含可见的页面内容
+<h1>            -- 定义一个大标题
+<p>             -- 定义一个段落
